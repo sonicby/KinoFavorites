@@ -11,13 +11,13 @@ KinoFavorites
 
 ###Установка:
 
-* Импортировать дамп базы kino.sql
-* Перенести все файлы в папку на вашем сервере (например /path/to/folder/kino/)
+* Импортировать дамп базы kinofavorites.sql
+* Перенести все файлы в папку на вашем сервере (например /path/to/folder/kinofavorites/)
 * Внести изменения в config.php и указать данные для доступа к БД
 * Добавить в cron engine.php
 
 ```
-*/60 * * * * php -q /path/to/folder/kino/engine.php >> /path/to/log/kino_error.log 2>&1
+*/60 * * * * php -q /path/to/folder/kinofavorites/engine.php >> /path/to/log/kinofavorites_error.log 2>&1
 ```
 ###Настройки:
 

@@ -1,0 +1,50 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	font-family: Verdana;
+	font-size: 12px;
+}
+
+div.cut
+{
+	font-weight: bold;
+	cursor: pointer;
+}
+
+div.result
+{
+	display: none; 
+}
+
+div.result_current
+{
+	display: block; 
+}
+
+table {
+	width: 100%;
+	background-color: #CDCDCD;
+	border: 1px solid black;
+}
+
+tr.header {
+	background-color: #e6EEEE;
+	font-weight: bold;
+	text-align: center;
+}
+
+tr.light {
+	background-color: #FFF;
+}
+
+tr.dark {
+	background-color: #f6f6f6;
+}
+
+td {
+	padding: 2px;
+}
+
+td.num {
+	text-align: center;
+}
