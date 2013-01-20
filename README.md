@@ -17,7 +17,7 @@ KinoFavorites
 * Добавить в cron engine.php
 
 ```
-*/10 * * * * php -q /path/to/folder/kino/engine.php >> /path/to/log/kino_error.log 2>&1
+*/60 * * * * php -q /path/to/folder/kino/engine.php >> /path/to/log/kino_error.log 2>&1
 ```
 ###Настройки:
 
