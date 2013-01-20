@@ -3,6 +3,10 @@ KinoFavorites
 
 Сервис позволяет найти и добавить в базу любимых артистов, для удобного ведения списка фильмов, в которых они участвовали. Имеется возможность пометить фильм как "просмотренный" или спрятать его из общего списка.
 
+###Скриншоты:
+![Screenshot1](http://korphome.ru/kino_favorites/screenshots/Screenshot1.png "Screenshot1")
+![Screenshot2](http://korphome.ru/kino_favorites/screenshots/Screenshot2.png "Screenshot2")
+
 ###Требования для установки:
 
 * Веб-сервер (Apache, nginx, lighttpd)
